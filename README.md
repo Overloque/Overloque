@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kostya &#128075;</h1>
 <h3 align="center">QA Engineer from Russia </h3>
 
-### :computer: What I use
+## :computer: What I use
 <p align="center">
 <a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"/></a>
 <a href="https://www.jetbrains.com/idea/"><img src="images/logo/Intelij_IDEA.svg" width="50" height="50"/></a>
@@ -17,7 +17,7 @@
 <a href="https://www.telegram.org/"><img src="images/logo/Telegram.svg" width="50" height="50"/></a>
 </p>
 
-## My projects
+## :godmode: My projects
 
 ### :star: Проект по автоматизации тестовых сценариев для сайта компании [Tinkoff](https://www.tinkoff.ru/)
 
