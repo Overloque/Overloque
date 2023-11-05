@@ -29,7 +29,7 @@
 
 ### My stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ovevrloque&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Overloque&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Overloque&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Overloque&theme=solarized_dark)
 
