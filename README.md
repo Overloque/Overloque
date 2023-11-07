@@ -22,7 +22,7 @@
 
 ### :star: Проект по автоматизации тестовых сценариев для сайта компании [Tinkoff](https://www.tinkoff.ru/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Overloque&repo=Tinkoff-autotests)](https://github.com/Overloque/Tinkoff-autotests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Overloque&repo=tinkoff-ui-autotests)](https://github.com/Overloque/Tinkoff-autotests)
 
 ### :star: Проект по автоматизации API методов для сайта [DemoQA](https://demoqa.com/)
 
