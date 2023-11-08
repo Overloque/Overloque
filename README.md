@@ -32,7 +32,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Overloque&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Overloque&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Overloque&theme=solarized_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Overloque&layout=compact)](https://github.com/Overloque/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
