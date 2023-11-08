@@ -28,6 +28,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Overloque&repo=demoqa_api_autotests)](https://github.com/Overloque/demoqa_api_autotests)
 
+### :star: Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Overloque&repo=wikipedia_mobile_autotests)](https://github.com/Overloque/wikipedia_mobile_autotests)
+
 ### My stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Overloque&theme=solarized_dark)
