@@ -32,7 +32,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Overloque&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Overloque&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Overloque&theme=solarized_dark)
 
 <!--
 Here are some ideas to get you started:
