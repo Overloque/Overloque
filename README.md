@@ -34,7 +34,7 @@
 
 ### My stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Overloque&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Overloque&show_icons=true&theme=gruvbox)
 
 <!--
 Here are some ideas to get you started:
