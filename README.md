@@ -20,15 +20,15 @@
 
 ## :godmode: My projects
 
-### :star: Проект по автоматизации тестовых сценариев для сайта компании [Tinkoff](https://www.tinkoff.ru/)
+### :star: Project to automate test scripts for a company website [Tinkoff](https://www.tinkoff.ru/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Overloque&repo=tinkoff-ui-autotests)](https://github.com/Overloque/Tinkoff-autotests)
 
-### :star: Проект по автоматизации API методов для сайта [DemoQA](https://demoqa.com/)
+### :star: Project to automate API methods for a website [DemoQA](https://demoqa.com/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Overloque&repo=demoqa_api_autotests)](https://github.com/Overloque/demoqa_api_autotests)
 
-### :star: Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
+### :star: Project to automate mobile tests for an application [Wikipedia](https://ru.wikipedia.org/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Overloque&repo=wikipedia_mobile_autotests)](https://github.com/Overloque/wikipedia_mobile_autotests)
 
